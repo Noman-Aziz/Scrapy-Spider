@@ -15,10 +15,11 @@ It Extracts the Following Data Fields of **Doctors and Companies** from each Ent
 11. Town
 
 Features:
-> Pagination (Next Page Following)
+* Pagination (Next Page Following)
+* XLSX Feed Exporter
+* Random User Agents
 
-> XLSX Feed Exporter
-
-> Random User Agents
-
-*The Required Python Packages can be Installed by Installing the Requirements.txt File Included.*
+The Required Python Packages are:
+* Scrapy
+* Scrapy-xlsx
+* Scrapy-user-agents
